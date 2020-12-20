@@ -1,0 +1,13 @@
+{  
+    "appPort": 80,
+    
+    "extensions": [
+      "msjsdiag.debugger-for-chrome",
+      "ms-vscode.PowerShell",
+      "dbaeumer.vscode-eslint"
+    ],
+    
+    "settings": {
+      "peacock.remoteColor": "#b62020"
+    },
+}
